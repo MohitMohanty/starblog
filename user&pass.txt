@@ -1,0 +1,7 @@
+admin
+user name - sangeeta
+pass - admin123
+
+normal user
+user - mohit
+pass- mike@123
